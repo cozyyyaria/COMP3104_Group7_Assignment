@@ -1,0 +1,3 @@
+SDLC:
+ 
+DevOps is critical to  modern Software Development Life Cycle (SDLC) because it breaks down the silos between developers and IT operations. By implementing Continous Integration and Continuous Deployment (CI/CD), teams can release software faster, catch bugs earlier through automated testing, and maintain more stable production environments
