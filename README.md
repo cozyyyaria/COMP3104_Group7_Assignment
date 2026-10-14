@@ -1,9 +1,8 @@
 # COMP3104_Group7_Assignment
 
 ## Group Members
-**Leader:** Ariana Cruz (101346000) - [GitHub](https://github.com/cozyyyaria)
-**Member 2:** Lee, Nicholas (101303788) - [GitHub Link]
-
+* **Leader:** Ariana Cruz (101346000) – [GitHub](https://github.com/cozyyyaria)
+* **Member 2:** Lee, Nicholas (101303788) – [GitHub Link](https://github.com)
 
 ## Project Description
 This repository hosts the group assignment for the COMP3104 DevOps course at George Brown College. It demonstrates collaborative Git workflows, version control fundamentals, and automated CI/CD integration.
