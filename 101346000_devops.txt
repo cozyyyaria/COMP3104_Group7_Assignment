@@ -1,0 +1,1 @@
+COMP 3104 (DevOps) bridges the gap between writing code and deploying it. In this course, we are learning about version control with Git, collaborative workflows on GitHub, and automating our testing and deployment processes using CI/CD pipelines like GitHub Actions
