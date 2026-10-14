@@ -1,3 +1,5 @@
 Introduction: 
 
 Attending George Brown College has given me an opportunity to attend classes online/remote at my program T197 computer programming and analysis which focuses on on full-stack development, database architecture, and modern software engineering practices.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
