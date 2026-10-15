@@ -1,0 +1,10 @@
+SDLC:
+
+In the software development lifecycle, DevOps shortens feedback loops
+between planning, coding, testing, release, and monitoring. Automated builds
+and tests catch bugs early, CI/CD makes releases repeatable and low-risk,
+and shared ownership between developers and operations reduces hand-off
+delays. Version control and pull-request review also protect the main branch
+from unreviewed changes.
+
+=====================================================================================
