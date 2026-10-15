@@ -2,13 +2,13 @@
 
 ## Group Members
 * **Leader:** Ariana Cruz (101346000) – [GitHub](https://github.com/cozyyyaria)
-* **Member 2:** Lee, Nicholas (101303788) – [GitHub Link](https://github.com)
+*    * **Member 2:** Lee, Nicholas (101303788) – [GitHub](https://github.com/nlee0703)
 
 ## Project Description
 This repository hosts the group assignment for the COMP3104 DevOps course at George Brown College. It demonstrates collaborative Git workflows, version control fundamentals, and automated CI/CD integration.
 
 ## Setup Instructions
-1. Clone the repository using `ghttps://github.com/cozyyyaria/COMP3104_Group7_Assignment.git`
+1. Clone the repository using `https://github.com/cozyyyaria/COMP3104_Group7_Assignment.git`
 2. Switch to your designated working branch using `git checkout STUDENTID-Name`.
 
 ## CI/CD Pipeline
