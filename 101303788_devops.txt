@@ -8,3 +8,4 @@ deliver software faster and more reliably through automation and
 collaboration.
 
 ===================================================================================
+So far in the course I have practiced cloning repositories, creating branches, making commits, and opening pull requests.
