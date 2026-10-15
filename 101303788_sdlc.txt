@@ -8,3 +8,4 @@ delays. Version control and pull-request review also protect the main branch
 from unreviewed changes.
 
 =====================================================================================
+Continuous integration runs automated checks on every push, so problems are found during development instead of after release.
