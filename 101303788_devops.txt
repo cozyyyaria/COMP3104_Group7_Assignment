@@ -1,0 +1,10 @@
+Devops:
+
+COMP3104 introduces DevOps, the set of practices that connects software
+development with IT operations. In this course I work with version control
+using Git and GitHub, branching strategies, pull requests, and continuous
+integration pipelines such as GitHub Actions and Travis CI. The goal is to
+deliver software faster and more reliably through automation and
+collaboration.
+
+===================================================================================
