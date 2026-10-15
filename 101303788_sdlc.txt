@@ -9,3 +9,5 @@ from unreviewed changes.
 
 =====================================================================================
 Continuous integration runs automated checks on every push, so problems are found during development instead of after release.
+
+Branch protection and pull request reviews keep unreviewed code out of the main branch.
